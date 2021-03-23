@@ -1,0 +1,16 @@
+{
+  "name": "hello-world-js",
+  "version": "1.0.0",
+  "description": "JavaScript hello world examples",
+  "main": "Hello_World.js",
+  "scripts": {
+    "main": "node .",
+    "alert": "node Hello_World_Alert.js"
+  },
+  "keywords": [
+    "Hello",
+    "World"
+  ],
+  "author": "Grant Bourne",
+  "license": "ISC"
+}
