@@ -1,4 +1,5 @@
-[Brainfuck (https://wikipedia.org/wiki/Brainfuck)]
+[Brainfuck]
+[ (https://wikipedia.org/wiki/Brainfuck) ]
 >++++++++[<+++++++++>-]<.
 >++++[<+++++++>-]<+.
 +++++++..
