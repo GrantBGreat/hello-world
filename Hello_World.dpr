@@ -1,3 +1,6 @@
+// Pascal
+// (http://www.gnu-pascal.de)
+
 program HelloWorld;
 
 {$APPTYPE CONSOLE}
