@@ -1,6 +1,7 @@
-using System;
+# Beef
+# (https://www.beeflang.org)
 
-# Beef (https://www.beeflang.org/)
+using System;
 
 namespace Hello
 {
