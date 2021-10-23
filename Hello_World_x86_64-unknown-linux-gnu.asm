@@ -1,3 +1,7 @@
+; x86_64 assembly
+; (https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html)
+; (https://www.amd.com/system/files/TechDocs/24594.pdf)
+
 SECTION .data
 	message:	db "Hello World!",10	; define char, append a newline
 	length:		equ $-message		; NASM keyword for const length
