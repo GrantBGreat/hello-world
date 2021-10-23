@@ -1,3 +1,6 @@
-@echo off
+REM Batch 
+REM (https://docs.microsoft.com/en-us/windows-server/administration/windows-commands)
 
-echo Hello World
+@ECHO OFF
+
+ECHO Hello World
