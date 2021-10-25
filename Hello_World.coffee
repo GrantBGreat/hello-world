@@ -1,1 +1,3 @@
-console.log 'Hello, world!'
+# Coffeescript
+# (https://coffeescript.org)
+console.log 'Hello World!'

@@ -1,4 +1,10 @@
-program Hello;
+// Pascal
+// (http://www.gnu-pascal.de)
+
+program HelloWorld;
+
+{$APPTYPE CONSOLE}
+
 begin
-  writeln ('Hello, world.');
+  WriteLn('Hello World');
 end.

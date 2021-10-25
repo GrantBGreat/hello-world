@@ -1,4 +1,5 @@
 <?php
-    // If you are reading this, then you clicked php and I hate you 😠
+// PHP
+// (https://www.php.net)
     echo "Hello World";
 ?>

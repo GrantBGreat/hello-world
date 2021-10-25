@@ -1,6 +1,11 @@
-import printf; 
-export hello; 
-foreign C hello(){ 
-    foreign C printf("hello world"); 
-    return; 
-} 
+// C--
+// (https://www.cs.tufts.edu/~nr/c--)
+// (https://github.com/Tehnix/Cminusminus-compiler)
+
+import printf;
+
+export hello;
+foreign C hello(){
+    foreign C printf("Hello World!");
+    return;
+}
