@@ -2,7 +2,12 @@
 Hello World printed in a ton of languages
 
 # Contrubutions
-I am more then happy to see any contributions to this project and as a matter a fact, I really appreciate it! Just go ahead and fork the project and send over pull requests when you're complete! I'll be sure to note you here in the readme as a contributor.
+I am more then happy to see any contributions to this project and as a matter a fact, I really appreciate it! Just go ahead and fork the project and send over pull requests when you're complete!
+
+### Current Contributors:
+* [@GrantBGreat](https://github.com/GrantBGreat)
+* [@jpie726](https://github.com/jpie726)
+
 <br><br>
 # Language list
 * [AutoHotKey](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.ahk)
