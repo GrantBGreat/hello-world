@@ -48,6 +48,9 @@ I am more then happy to see any contributions to this project and as a matter a 
 * [Julia](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.jl)
 * [JavaScript](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.js)
 
+### K:
+* [Koltin](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.kt)
+
 ### L:
 * [LOGO](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.lgo)
 * [Lua](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.lua)
@@ -67,10 +70,14 @@ I am more then happy to see any contributions to this project and as a matter a 
 
 ### R:
 * [Ruby](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.rb)
+* [Rust](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.rs)
 
 ### S:
 * [Shell](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.sh)
 * [Swift](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.swift)
+
+### T:
+* [TrumpScript](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.tr)
 
 ### V:
 * [Visual Basic](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.vb)
