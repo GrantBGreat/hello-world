@@ -11,7 +11,7 @@ I am more then happy to see any contributions to this project and as a matter a 
 
 # Language list
 
-## A:
+### A:
 * [ActionScript](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.as)
 * [ArnoldC](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.arnoldc)
 * [Assembly](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.asm)
@@ -19,7 +19,7 @@ I am more then happy to see any contributions to this project and as a matter a 
 
 
 
-## Old:
+### Old:
 * [BASIC](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.bas)
 * [Batch](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.bat)
 * [Beef](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World(beef).bf)
