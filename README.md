@@ -14,22 +14,27 @@ I am more then happy to see any contributions to this project and as a matter a 
 ### A:
 * [ActionScript](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.as)
 * [ArnoldC](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.arnoldc)
-* [Assembly](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.asm)
+* [Assembly](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World_x86_64-unknown-linux-gnu.asm)
 * [AutoHotKey](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.ahk)
+
+### B:
+* [BASIC](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.bas)
+* [Batch](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.bat)
+* [Beef](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World_beef.bf)
+* [Brainfuck](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World_brainfuck.bf)
+
+### C:
+* [C](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.c)
+* [C++](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.cpp)
+* [C--](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.cmm)
+* [C#](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.cs)
+* [Clipper](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.clp)
+* [Coffee](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.coffee)
+
 
 
 
 ### Old:
-* [BASIC](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.bas)
-* [Batch](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.bat)
-* [Beef](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World(beef).bf)
-* [Brainfuck](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World(brain).bf)
-* [C](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.c)
-* [Clipper](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.clp)
-* [C--](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.cmm)
-* [Coffee](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.coffee)
-* [C++](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.cpp)
-* [C#](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.cs)
 * [Delphi](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.dpr)
 * [Go](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.go)
 * [HTML](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.html)
