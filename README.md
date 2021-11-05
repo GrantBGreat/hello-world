@@ -57,6 +57,7 @@ I am more then happy to see any contributions to this project and as a matter a 
 * [Lua](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.lua)
 
 ### M:
+* [Malbogle](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.mal)
 * [Matlab](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World_matlab.m)
 
 ### O:
