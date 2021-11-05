@@ -43,6 +43,9 @@ I am more then happy to see any contributions to this project and as a matter a 
 ### H:
 * [HTML](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.html)
 
+### I:
+* [Intercal](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.i)
+
 ### J:
 * [Java](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.java)
 * [Julia](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.jl)
