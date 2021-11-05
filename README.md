@@ -83,3 +83,6 @@ I am more then happy to see any contributions to this project and as a matter a 
 
 ### V:
 * [Visual Basic](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.vb)
+
+### W:
+* [WhiteSpace](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.ws)
