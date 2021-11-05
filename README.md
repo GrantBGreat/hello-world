@@ -53,6 +53,7 @@ I am more then happy to see any contributions to this project and as a matter a 
 
 ### L:
 * [LOGO](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.lgo)
+* [LOLCODE](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.lol)
 * [Lua](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.lua)
 
 ### M:
