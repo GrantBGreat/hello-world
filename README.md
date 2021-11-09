@@ -82,6 +82,7 @@ I am more then happy to see any contributions to this project and as a matter a 
 * [Swift](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.swift)
 
 ### T:
+* [Thue](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.t)
 * [TrumpScript](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.tr)
 
 ### V:
