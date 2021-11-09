@@ -71,6 +71,7 @@ I am more then happy to see any contributions to this project and as a matter a 
 * [Pascal](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.pas)
 * [Perl](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.pl)
 * [PHP](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.php)
+* [Pit](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.pit)
 * [Processing](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.pde)
 * [Python](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.py)
 
