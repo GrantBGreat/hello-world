@@ -65,6 +65,7 @@ I am more then happy to see any contributions to this project and as a matter a 
 
 ### O:
 * [Object C](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World_obj-c.m)
+* [Object Oriented Thue (OOT)](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.oot)
 
 ### P:
 * [Pascal](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.pas)
