@@ -87,6 +87,7 @@ I am more then happy to see any contributions to this project and as a matter a 
 ### T:
 * [Thue](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.t)
 * [TrumpScript](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.tr)
+* [TypeScript](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.ts)
 
 ### V:
 * [Visual Basic](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.vb)
