@@ -81,6 +81,7 @@ I am more then happy to see any contributions to this project and as a matter a 
 * [Rust](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.rs)
 
 ### S:
+* [Scheme](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.scm)
 * [Shell](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.sh)
 * [Swift](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.swift)
 
