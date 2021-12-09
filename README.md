@@ -1,5 +1,6 @@
+![tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGrantBGreat%2Fhello-world)
 # Hello World
-Hello World printed in a ton of languages
+Hello World printed in 48 unique languages!
 
 # Contrubutions
 I am more then happy to see any contributions to this project and as a matter a fact, I really appreciate it! Just go ahead and fork the project and send over pull requests when you're complete!
@@ -8,8 +9,9 @@ I am more then happy to see any contributions to this project and as a matter a 
 * [@GrantBGreat](https://github.com/GrantBGreat)
 * [@jpie726](https://github.com/jpie726)
 
+<br>
 
-# Language list
+# Index
 
 ### A:
 * [ActionScript](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.as)
