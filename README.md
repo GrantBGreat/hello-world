@@ -1,4 +1,4 @@
-![tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGrantBGreat%2Fhello-world)
+[![tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FGrantBGreat%2Fhello-world)](https://twitter.com/intent/tweet?text=Learn%20to%20write%20Hello%20World%20in%20any%20language%21:&url=https%3A%2F%2Fgithub.com%2FGrantBGreat%2Fhello-world)
 # Hello World
 Hello World printed in 48 unique languages!
 
