@@ -29,6 +29,7 @@ I am more then happy to see any contributions to this project and as a matter a 
 * [C--](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.cmm)
 * [C#](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.cs)
 * [Clipper](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.clp)
+* [Clojure](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.clj)
 * [Coffee](https://github.com/GrantBGreat/hello-world/blob/main/Hello_World.coffee)
 
 ### D;
